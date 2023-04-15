@@ -73,7 +73,8 @@ cd cd0157-Server-Deployment-and-Containerization/
 └── trust.json     #ToDo 
 ```
 
-     
+## Pushing changes in readme for testing the CI/CD
+
 ## Project Steps
 
 Completing the project involves several steps:
